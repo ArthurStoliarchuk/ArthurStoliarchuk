@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Artur, a 22-year-old Software Engineer passionate about **Node.js, JavaScript, React, n8n, REST APIs, Python, and Machine Learning**.  <br>Currently studying at Taras Shevchenko National University of Kyiv and building projects that connect **automation, web development, and AI** 🚀
+I'm Artur, a 22-year-old Software Engineer passionate about **Node.js, JavaScript, React, n8n, REST APIs, Python, and Machine Learning**.  I hold a **Bachelor's degree in Computer Science** from Taras Shevchenko National University of Kyiv.  
+I focus on building projects that connect **automation, web development, and AI** 🚀
 
 ## 💼 Experience  
 I have hands-on experience working as a **Zoho Developer**, where I built advanced CRM solutions and integrated third-party services through **REST APIs**.  <br>I developed full-stack widgets that combined **backend logic (Node.js, Express.js, database integrations)** with **frontend interfaces (React)**, creating ultimate all-in-one tools tailored for business needs.  <br>My work also included automation workflows with **Deluge Script** and **n8n**, optimizing data flows and enabling complex business process management.  <br>I enjoy designing systems end-to-end — from backend APIs to frontend UI — and solving integration challenges that make products more powerful and user-friendly.
