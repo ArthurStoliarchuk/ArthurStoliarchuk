@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Artur, a 22-year-old Software Engineer passionate about **Node.js, JavaScript, React, n8n, REST APIs, Python, and Machine Learning**.  I hold a **Bachelor's degree in Computer Science** from Taras Shevchenko National University of Kyiv.  
+I'm Artur, a 23-year-old Software Engineer passionate about **Node.js, JavaScript, React, n8n, REST APIs, Python, and Machine Learning**.  I hold a **Bachelor's degree in Software Engineering** from Taras Shevchenko National University of Kyiv.  
 I focus on building projects that connect **automation, web development, and AI** 🚀
 
 ## 💼 Experience  
